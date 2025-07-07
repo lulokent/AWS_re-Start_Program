@@ -5,8 +5,8 @@ This repository is a documentation of my learning and practical work throughout 
 It includes the following folders notes and lab exercises and portfolio projects
 
 ## Topics
-Compute
-Storage
-Databases
-Networking
+* Compute
+* Storage
+* Databases
+* Networking
 
